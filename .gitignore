@@ -4,3 +4,5 @@
 *.xcworkspacedata
 *.pbxproj
 C_memmove/C_memmove.xcodeproj/xcuserdata/irene.xcuserdatad/xcschemes/xcschememanagement.plist
+C_memmove/.DS_Store
+.DS_Store
